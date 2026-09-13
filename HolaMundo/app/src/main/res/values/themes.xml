@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.HolaMundo" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+</resources>
